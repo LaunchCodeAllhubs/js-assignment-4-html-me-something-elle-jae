@@ -7,7 +7,7 @@
     margin: 5px;
 }
 
-.main-heading {
+#mainHeading {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: red;
     font-size: 3vw;
